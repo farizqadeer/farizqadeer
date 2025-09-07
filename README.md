@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:0A66C2&height=200&section=header&text=AI%20Data%20Scientist%20%26%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-# 👋 Hi, I'm Fariz  
+# 👋 Hi, I'm Fariz Qadeer
 **AI Data Scientist & Engineer**  
 
 I am a passionate **Data Scientist** with expertise in **Machine Learning, Deep Learning, NLP, and Computer Vision**, combined with strong skills in **Data Engineering**.  
